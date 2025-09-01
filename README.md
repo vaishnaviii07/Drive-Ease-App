@@ -48,7 +48,7 @@ A full-stack MERN (MongoDB, Express, React, Node.js) application that allows use
 
 ### 1.Clone the repository
 
-git clone https://github.com/vaishnaviii07/car-rental-app.git
+git clone https://github.com/vaishnaviii07/Drive-Ease-App.git
 
 ### 2.Set up environment variables
 
