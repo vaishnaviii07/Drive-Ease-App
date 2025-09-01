@@ -85,9 +85,9 @@ npm run dev
 npm run server
 
 ### 5.Open in Browser
-[Frontend](http://localhost:3000)
+[Frontend](http://localhost:5173)
 
-[Backend API](http://localhost:5000)
+[Backend API](http://localhost:3000)
 
 ## **Conclusion**
 
